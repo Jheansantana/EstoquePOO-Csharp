@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\bin\Debug\net8.0\SistemaestoquePOO.exe
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\bin\Debug\net8.0\SistemaestoquePOO.deps.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\bin\Debug\net8.0\SistemaestoquePOO.runtimeconfig.json
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\bin\Debug\net8.0\SistemaestoquePOO.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\bin\Debug\net8.0\SistemaestoquePOO.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\obj\Debug\net8.0\SistemaestoquePOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\obj\Debug\net8.0\SistemaestoquePOO.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\obj\Debug\net8.0\SistemaestoquePOO.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\obj\Debug\net8.0\SistemaestoquePOO.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\obj\Debug\net8.0\SistemaestoquePOO.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\obj\Debug\net8.0\refint\SistemaestoquePOO.dll
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\obj\Debug\net8.0\SistemaestoquePOO.pdb
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\obj\Debug\net8.0\SistemaestoquePOO.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Área de Trabalho\SistemaestoquePOO\sistemaestoquePOO\obj\Debug\net8.0\ref\SistemaestoquePOO.dll
